@@ -29,6 +29,9 @@
 - **last**: move to last row of the result set.
 
 ### ResultSet fetching methods
+- There are 2 ways to retrive a value from result set is by column name and column index.
 - **getInt(int columnIndex)**
 - **getInt(String columnName)**
-
+- **getString(int columnIndex)**
+- **getString(String columnName)**
+- and many more based on the return values of youre query.
