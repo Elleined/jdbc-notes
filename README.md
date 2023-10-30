@@ -35,3 +35,5 @@
 - **getString(int columnIndex)**
 - **getString(String columnName)**
 - and many more based on the return values of youre query.
+
+##### Tips used try-with resources for much cleaner and readable code. and add log for debugging purposes.
